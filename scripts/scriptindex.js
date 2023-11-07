@@ -1,3 +1,7 @@
+//Autor: JAVIER GARCÍA RODRÍGUEZ
+
+//GitHub: https://github.com/Javigarciagr7/Ejercicio-Inventario.git
+
 let inventarioVisible = false;
 
 const inventario = [

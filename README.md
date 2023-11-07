@@ -2,4 +2,4 @@
 
 **Autor**: JAVIER GARCÍA RODRÍGUEZ
 
-**GitHub**:
+**GitHub**: https://github.com/Javigarciagr7/Ejercicio-Inventario.git
